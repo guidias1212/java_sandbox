@@ -1,0 +1,5 @@
+---
+applications:
+  - name: sandbox
+    buildpacks:
+      - java_buildpack
