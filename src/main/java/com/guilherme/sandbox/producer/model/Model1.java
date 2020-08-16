@@ -1,4 +1,4 @@
-package com.guilherme.sandbox.business1.model;
+package com.guilherme.sandbox.producer.model;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.Getter;

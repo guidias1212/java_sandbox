@@ -1,6 +1,6 @@
-package com.guilherme.sandbox.business1.controller;
+package com.guilherme.sandbox.producer.controller;
 
-import com.guilherme.sandbox.business1.model.Model1;
+import com.guilherme.sandbox.producer.model.Model1;
 import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
