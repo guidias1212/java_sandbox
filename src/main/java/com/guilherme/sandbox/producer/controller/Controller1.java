@@ -18,7 +18,7 @@ public class Controller1 {
         //TODO: Create Facade - Service - Client Pattern
         Model1 model1 = new Model1();
         model1.setId((long) 1);
-        model1.setName("Hello World! Openshift Web Console testing. Change made here");
+        model1.setName("Hello from producer microsservice!");
 
         return ResponseEntity.ok().body(model1);
     }
