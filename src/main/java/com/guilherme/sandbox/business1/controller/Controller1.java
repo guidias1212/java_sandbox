@@ -18,7 +18,7 @@ public class Controller1 {
         //TODO: Create Facade - Service - Client Pattern
         Model1 model1 = new Model1();
         model1.setId((long) 1);
-        model1.setName("Hello World");
+        model1.setName("Hello World!");
 
         return ResponseEntity.ok().body(model1);
     }
